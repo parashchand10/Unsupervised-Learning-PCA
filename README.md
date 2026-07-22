@@ -1,6 +1,6 @@
 ## Unsupervised Learning - Principal Component Analysis (PCA) for Dimensionality Reduction
 
-## Project Overview
+#### Project Overview
 
 This project demonstrates the implementation of **Principal Component Analysis (PCA)**, an unsupervised machine learning technique used for **dimensionality reduction**. The objective is to reduce the number of features while preserving the maximum amount of information (variance) present in the dataset.
 
@@ -8,7 +8,7 @@ The dataset is first standardized using **StandardScaler**, after which PCA is a
 
 ---
 
-## Objectives
+#### Objectives
 
 - Understand the working of Principal Component Analysis (PCA)
 - Standardize data before applying PCA
@@ -18,7 +18,7 @@ The dataset is first standardized using **StandardScaler**, after which PCA is a
 
 ---
 
-## Benefits of PCA
+#### Benefits of PCA
 
 - Reduces the number of features
 - Removes redundant information
@@ -29,7 +29,7 @@ The dataset is first standardized using **StandardScaler**, after which PCA is a
 
 ---
 
-## Installation
+#### Installation
 
 Navigate to the project:
 
