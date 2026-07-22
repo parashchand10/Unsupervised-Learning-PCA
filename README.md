@@ -1,4 +1,4 @@
-## Unsupervised Learning - Principal Component Analysis (PCA) for Dimensionality Reduction
+## Unsupervised Learning - Principal Component Analysis (PCA)
 
 #### Project Overview
 
